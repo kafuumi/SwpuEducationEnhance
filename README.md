@@ -28,6 +28,8 @@
 
    推荐使用`Microsoft Edge`浏览器，当然，其它支持油猴脚本的浏览器也可以。
 
+   推荐安装教程：[安装油猴教程](https://zhuanlan.zhihu.com/p/353794870?ivk_sa=1024320u)
+
    ![3](https://gitee.com/Hami-Lemon/image-repo/raw/master/images/2021/07/01/20210701093420.png)
 
 2. 安装脚本
